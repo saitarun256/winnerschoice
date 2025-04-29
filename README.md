@@ -170,6 +170,19 @@
     <p>
       Your tasks include content sharing, referral building, completing learning modules, and promoting your growth journey through our platform. These activities not only teach you valuable digital skills but also generate continuous rewards. Our support team and mentors are ready to help you get started today!
     </p>
+     </section>
+
+  <section class="ads">
+    <h2>Sponsored Ads</h2>
+    <div class="ad-box">
+      <h3>Get 50% Off Now!</h3>
+      <p>Limited time offer on all our premium products. Shop today and save big.</p>
+    </div>
+    <div class="ad-box">
+      <h3>Join Our Newsletter</h3>
+      <p>Stay updated with our latest news and exclusive offers. Sign up today!</p>
+    </div>
+  </section>
 
     <form id="contactForm">
       <input type="text" id="name" placeholder="Your Name" required />
