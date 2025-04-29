@@ -173,13 +173,13 @@
      </section>
 
   <section class="ads">
-    <h2>Sponsored Ads</h2>
+    <h2>start your earning</h2>
     <div class="ad-box">
-      <h3>Get 50% Off Now!</h3>
-      <p>Limited time offer on all our premium products. Shop today and save big.</p>
+      <h3>complete your target by refering 10 members!</h3>
+      <p>Limited time offer on all our premium plans. Start today and save big.</p>
     </div>
     <div class="ad-box">
-      <h3>Join Our Newsletter</h3>
+      <h3>Join Our winners choice whatsapp group</h3>
       <p>Stay updated with our latest news and exclusive offers. Sign up today!</p>
     </div>
   </section>
