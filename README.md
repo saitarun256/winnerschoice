@@ -169,9 +169,8 @@
       Your tasks include content sharing, referral building, completing learning modules, and promoting your growth journey through our platform. These activities not only teach you valuable digital skills but also generate continuous rewards. Our support team and mentors are ready to help you get started today!
     </p>
      
-
+ <a href=//"file:///C:/Users/hp/Desktop/page%202.html"> <button>click for rewards </button></a>
   <section class="ads">
-    <a href=//"file:///C:/Users/hp/Desktop/page%202.html"> click for rewards </a>
     <h2>start your earning</h2>
     <div class="ad-box">
       <h3>complete your target by refering 10 members!</h3>
