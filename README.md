@@ -181,17 +181,7 @@
     <div class="ad-box">
       <h3>Join Our winners choice whatsapp group</h3>
       <p>Stay updated with our latest news and exclusive offers. Sign up today!</p>
-    </div>
-  </section>
- <section class="gallery">
-    <h2>Our Gallery</h2>
-    <div class="images">
-      <img src="C:\Users\hp\Desktop\istockphoto-587529448-612x612.jpg"" alt" />
-      <img src="C:\Users\hp\Desktop\Passive-Income.jpg"" alt" />
-      <img src="C:\Users\hp\Desktop\blank-note-pad-passive-income-260nw-1786293506.webp" />
-      <img src="C:\Users\hp\Desktop\mlm.jpeg.jpg" />
-    </div>
-  </section>
+   
   <div>
     <form id="contactForm">
       <input type="text" id="name" placeholder="Your Name" required />
