@@ -1,4 +1,4 @@
-# winnerschoice
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -179,7 +179,7 @@
       <p>Limited time offer on all our premium plans. Start today and save big.</p>
     </div>
     <div class="ad-box">
-      <h3>Join Our winners choice whatsapp group</h3>
+      <h3>Join in Our winners choice whatsapp group</h3>
       <p>Stay updated with our latest news and exclusive offers. Sign up today!</p>
    
   <div>
