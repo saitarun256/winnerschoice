@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>MLM Rewards Page</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: linear-gradient(to right, #ffecd2, #fcb69f);
+      overflow-x: hidden;
+    }
+    .congrats {
+      background: #fff4f4;
+      padding: 20px;
+      text-align: center;
+      font-size: 28px;
+      font-weight: bold;
+      color: #d63384;
+      animation: fadeIn 3s ease-in-out;
+    }
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+    .flowers {
+      position: relative;
+      height: 100px;
+      overflow: hidden;
+    }
+    .flower {
+      width: 50px;
+      height: 50px;
+      background-image: url('https://cdn-icons-png.flaticon.com/512/616/616408.png');
+      background-size: cover;
+      position: absolute;
+      animation: fall 5s linear infinite;
+    }
+    @keyframes fall {
+      0% { top: -50px; left: 50%; opacity: 0; }
+      100% { top: 100%; left: calc(50% + 100px); opacity: 1; }
+    }
+
+    .title {
+      font-size: 36px;
+      color: #2c3e50;
+      text-align: center;
+      margin-top: 40px;
+      animation: floatTitle 4s infinite;
+    }
+
+    @keyframes floatTitle {
+      0% { transform: translateY(0px); }
+      50% { transform: translateY(-10px); }
+      100% { transform: translateY(0px); }
+    }
+
+    .section {
+      padding: 20px;
+      background: #ffffffcc;
+      margin: 20px auto;
+      width: 90%;
+      max-width: 800px;
+      border-radius: 12px;
+      box-shadow: 0 0 12px rgba(0,0,0,0.1);
+    }
+
+    .section h2 {
+      color: #e67e22;
+    }
+
+    .reward-block {
+      display: flex;
+      flex-direction: column;
+      gap: 15px;
+      margin-top: 20px;
+    }
+
+    .reward {
+      background: #f1f1f1;
+      padding: 15px;
+      border-radius: 10px;
+      box-shadow: 2px 2px 10px rgba(0,0,0,0.1);
+    }
+
+    .reward span {
+      font-weight: bold;
+      color: #2c3e50;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="congrats">
+    🎉 Congratulations! 🎉<br>Welcome to the MLM Rewards Program
+  </div>
+
+  <div class="flowers">
+    <div class="flower" style="left: 20%; animation-delay: 0s;"></div>
+    <div class="flower" style="left: 40%; animation-delay: 1s;"></div>
+    <div class="flower" style="left: 60%; animation-delay: 2s;"></div>
+    <div class="flower" style="left: 80%; animation-delay: 3s;"></div>
+  </div>
+
+  <div class="title">🌟 MLM Importance & Rewards 🌟</div>
+
+  <div class="section">
+    <h2>Why MLM?</h2>
+    <p>Multi-Level Marketing (MLM) empowers individuals to grow their income through a network-based referral model. It enables financial freedom, flexible working, and personal development while earning rewards as your team grows.</p>
+  </div>
+
+  <div class="section">
+    <h2>🎁 Levels & Rewards</h2>
+    <div class="reward-block">
+      <div class="reward"><span>Level 1:</span> Money Return 💸</div>
+      <div class="reward"><span>Level 2:</span> Tab 📱</div>
+      <div class="reward"><span>Level 3:</span> Laptop 💻</div>
+      <div class="reward"><span>Level 4:</span> Bike 🏍️</div>
+      <div class="reward"><span>Level 5:</span> Car 🚗</div>
+      <div class="reward"><span>Level 6:</span> Flat with Registration 🏢</div>
+    </div>
+  </div>
+
+</body>
+</html>
