@@ -192,6 +192,7 @@
       <img src="C:\Users\hp\Desktop\mlm.jpeg.jpg" />
     </div>
   </section>
+  <div>
     <form id="contactForm">
       <input type="text" id="name" placeholder="Your Name" required />
       <input type="tel" id="mobile" placeholder="Mobile Number" required />
