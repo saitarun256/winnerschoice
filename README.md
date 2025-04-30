@@ -171,6 +171,7 @@
      
 
   <section class="ads">
+    <a href=//"file:///C:/Users/hp/Desktop/page%202.html"> click for rewards </a>
     <h2>start your earning</h2>
     <div class="ad-box">
       <h3>complete your target by refering 10 members!</h3>
