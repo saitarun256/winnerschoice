@@ -168,7 +168,7 @@
     <p>
       Your tasks include content sharing, referral building, completing learning modules, and promoting your growth journey through our platform. These activities not only teach you valuable digital skills but also generate continuous rewards. Our support team and mentors are ready to help you get started today!
     </p>
-     </section>
+     
 
   <section class="ads">
     <h2>start your earning</h2>
