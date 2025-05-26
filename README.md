@@ -47,7 +47,7 @@
       font-size: 1.8em;
       font-weight: 600;
       text-align: center;
-      color: #0d47a1;
+      color: 	#ffffff;
       margin: 30px 0;
       transition: 0.3s;
     }
