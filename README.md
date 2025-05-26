@@ -167,6 +167,12 @@
 
     <p>
       Your tasks include content sharing, referral building, completing learning modules, and promoting your growth journey through our platform. These activities not only teach you valuable digital skills but also generate continuous rewards. Our support team and mentors are ready to help you get started today!
+ప్రారంభించడానికి తక్కువ పెట్టుబడి:
+MLM వ్యాపారాలు ప్రారంభించడానికి పెద్ద పెట్టుబడి అవసరం లేదు, అంటే మీరు తక్కువ పెట్టుబడితో మీ వ్యాపారాన్ని ప్రారంభించవచ్చు.
+మీ స్వంత సమయం మరియు షెడ్యూల్:
+మీరు మీ స్వంత సమయం మరియు షెడ్యూల్ ప్రకారం పని చేయవచ్చు, అంటే మీకు మీరు స్వతంత్రంగా ఉండవచ్చు.
+అపరిమిత ఆదాయం:
+MLM ద్వారా మీరు అపరిమితమైన ఆదాయం పొందే అవకాశం ఉంది. 
     </p>
      
  <a href="page 2.html"> <button >click for rewards </button></a>
