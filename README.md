@@ -164,7 +164,7 @@
     </p>
 
     <h2 class="join">Let's Join in This Program</h2>
-<img src=""C:\Users\hp\Desktop\OIP.jpg"" alt="WORK FROM HOME">
+<img src="C:\Users\hp\Desktop\OIP.jpg" alt="WORK FROM HOME">
     <p>
       Your tasks include content sharing, referral building, completing learning modules, and promoting your growth journey through our platform. These activities not only teach you valuable digital skills but also generate continuous rewards. Our support team and mentors are ready to help you get started today! </p>
 <p> ప్రారంభించడానికి తక్కువ పెట్టుబడి:
