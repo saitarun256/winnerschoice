@@ -14,7 +14,7 @@
     body {
       font-family: 'Montserrat', sans-serif;
       background: linear-gradient(to right, #f0f2f5, #e0eafc);
-      color: #333;
+      color: #660600;
       line-height: 1.6;
     }
 
