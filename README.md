@@ -20,7 +20,7 @@
 
     header {
       background: #0d47a1;
-      color: white;
+      color: red;
       padding: 30px 20px;
       text-align: center;
       box-shadow: 0 2px 10px rgba(0,0,0,0.2);
@@ -37,7 +37,7 @@
       max-width: 1100px;
       margin: 40px auto;
       padding: 20px;
-      background: white;
+      background: green;
       border-radius: 12px;
       box-shadow: 0 4px 20px rgba(0,0,0,0.1);
       animation: fadeInUp 1s ease-in;
